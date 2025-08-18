@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_d2bd23103be841a0896855d8ea5f08f6~mv2.png"group-title="BOLIVIA",AbyaYala (LP)
-https://seo.tv.bo/tv/FIpSEO-TV-8.m3u8
+https://seo.tv.bo/tv/XLIpSEO-TV-8.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_43fa06fe60cc4817af458fc7a993c9dc~mv2.png"group-title="BOLIVIA",Agenda Minera TV (LP)
 https://stv2.boliviaplay.com.bo/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_43fa06fe60cc4817af458fc7a993c9dc~mv2.png"group-title="BOLIVIA",Agenda Minera TV2 (LP)
@@ -17,20 +17,22 @@ https://www.dailymotion.com/video/x89sfvo
 https://video2.getstreamhosting.com:19360/8038/8038.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_e0511f90044d4f8ab68c85ba74838d5f~mv2.png"group-title="BOLIVIA",Ayni TV (LP)
 https://envivo.bolivia-link.com:3906/live/aynitvlive.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_dfa6063e4aa341d9a8890b1ad7f78a49~mv2.png"group-title="BOLIVIA",Bolivision (LP) 24/7x3
-https://live.airstream.run/alba-bo-bolivision-bolivision/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_dfa6063e4aa341d9a8890b1ad7f78a49~mv2.png"group-title="BOLIVIA",Bolivision (LP)720 1
+https://d2qsan2ut81n2k.cloudfront.net/live/20446f64-67d8-4100-8c4b-20a759a8e919/ts:abr.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_dfa6063e4aa341d9a8890b1ad7f78a49~mv2.png"group-title="BOLIVIA",Bolivision (LP)720 2
+https://d2qsan2ut81n2k.cloudfront.net/live/20446f64-67d8-4100-8c4b-20a759a8e919/medialist_15609871089997455276_hls.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_dfa6063e4aa341d9a8890b1ad7f78a49~mv2.png"group-title="BOLIVIA",Bolivision (SCZ) 24/7x3
-https://live.airstream.run/alba-bo-bolivision-upptv/index.m3u8
+https://d2qsan2ut81n2k.cloudfront.net/live/3338960e-86ca-4c50-a567-913c663b26fc/ts:abr.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_dfa6063e4aa341d9a8890b1ad7f78a49~mv2.png"group-title="BOLIVIA",Bolivision (SCZ) 24/7x3
+https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_dfa6063e4aa341d9a8890b1ad7f78a49~mv2.png"group-title="BOLIVIA",Bolivision (SCZ) 24/7x3
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/BOLIVISION/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_909be7e1c7094f0d9ff2ef0257ef3de9~mv2.png"group-title="BOLIVIA",BoliviaTV 7.1 (LP) 24/7x3
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_909be7e1c7094f0d9ff2ef0257ef3de9~mv2.png"group-title="BOLIVIA",BoliviaTV 7.1 (LP) 24/7x3
-https://5ca9af4645e15.streamlock.net/boliviatv/videoboliviatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_909be7e1c7094f0d9ff2ef0257ef3de9~mv2.png"group-title="BOLIVIA",BoliviaTV 7.2 (LP) 24/7x3
-https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_909be7e1c7094f0d9ff2ef0257ef3de9~mv2.png"group-title="BOLIVIA",BoliviaTV 7.2 (LP) 24/7x3
-https://5f2c1b0d880e5.streamlock.net:443/boliviatv2/videoboliviatv2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_909be7e1c7094f0d9ff2ef0257ef3de9~mv2.png"group-title="BOLIVIA",BoliviaTV 7.1 ((VLC))LP
+https://www.dailymotion.com/video/x9nzqpo
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_909be7e1c7094f0d9ff2ef0257ef3de9~mv2.png"group-title="BOLIVIA",BoliviaTV 7.2 ((VLC))LP
+https://www.dailymotion.com/video/x9ny70y
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_d062b22b071b4b2091b7bfc1819db54c~mv2.png"group-title="BOLIVIA",Bolivia Punto TVx3
 https://cloud5.streaminglivehd.com:3819/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_d062b22b071b4b2091b7bfc1819db54c~mv2.png"group-title="CINE",Bolivia Punto TVx3
@@ -539,7 +541,7 @@ https://stream.gia.tv/giatv/giatv-wowmovies/wowmovies/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg"group-title="CINE",FUN TV HD
 https://stream.gia.tv/giatv/giatv-funtvretro/funtvretro/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_823556fb90544941b954dd53095d9c34~mv2.png"group-title="CINE",UVATVHD
-https://live20.bozztv.com/akamaissh101/ssh101/tvhduva/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/uvatvhdrd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_c237da47f96444c29c0ac60ef72fb737~mv2.png"group-title="CINE",PILAR STREAMING
 https://fl1002.bozztv.com/ssh101/pilarensehd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://d9j4ggspd8sgf.cloudfront.net/company/c478e28129fb2878ed20c024670e7287.png"group-title="CINE",BBC Drama
@@ -843,6 +845,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1972
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_c47de1a4691f41ecb43c94acc6f89401~mv2.png"group-title="INFANTILES",TALTAL TV
 https://live20.bozztv.com/akamaissh101/ssh101/animacion/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_092c136c90d846c58a55694eaa16f2f7~mv2.png"group-title="INFANTILES",VARIED TV
+https://live20.bozztv.com/akamaissh101/ssh101/variedtvonline/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_d2b80b501d73447c960c2c7715ad4a41~mv2.png"group-title="INFANTILES",DREIKO TV
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_56eed39d7af44db087b5585a142bb1bb~mv2.png"group-title="INFANTILES",DAEM TALTAL
@@ -1155,6 +1159,8 @@ https://cloudvideo.servers10.com:8081/8184/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/TDMasLogo22.png/640px-TDMasLogo22.png" group-title="DEPORTES",TD+2
 http://181.78.105.146:8800/play/a00q
 
+#EXTINF:-1 tvg-logo=""group-title="MUSICALES",LAMIX.CL
+https://live20.bozztv.com/akamaissh101/ssh101/lamixtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/euaoN1A.png"group-title="MUSICALES",EnerGeek RADIO
 https://streaming-cl.sh1ny.space/memfs/75b105a4-2fd3-4538-a55c-480f3903a262.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k2r7IeQ.png"group-title="MUSICALES",La Voz de Tucuman AR
@@ -1332,6 +1338,8 @@ https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QMGc3SYR/ETERNAL-METAL-HD.jpg" group-title="MUSICALES",ETERNAL METAL HD
 https://vdo.panelstreaming.live:3261/hybrid/play.m3u8
 
+#EXTINF:-1 tvg-logo=""group-title="RELIGIOSO",VISION TV
+https://live20.bozztv.com/akamaissh101/ssh101/visiononline/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="RELIGIOSO",MG TV
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/montegrandetv/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="RELIGIOSO",VC Online HD
