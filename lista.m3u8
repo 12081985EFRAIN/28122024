@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_d2bd23103be841a0896855d8ea5f08f6~mv2.png"group-title="BOLIVIA",TVBOX
-https://raw.githubusercontent.com/LEODJ69/leodj69.github.io/refs/heads/main/demo.mp4
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/022/451/250/small/settings-error-icon-3d-render-png.png"group-title="",ERROR
+https://video.wixstatic.com/video/71cd54_0c5dd2fc6e7e4d19a1b9d5c59b46cd1a/480p/mp4/file.mp4
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_d2bd23103be841a0896855d8ea5f08f6~mv2.png"group-title="BOLIVIA",AbyaYala (LP)
 https://fb.tv.bo/hls/AbyaYala.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_43fa06fe60cc4817af458fc7a993c9dc~mv2.png"group-title="BOLIVIA",Agenda Minera TV (LP)
