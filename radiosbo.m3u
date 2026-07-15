@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radios-com-bo/el-sonido-de-la-vida-la-paz.png"group-title="RADIOS",El Sonido de la VIDA 89.3 LP
+https://cast6.my-control-panel.com/proxy/elsonido/stream
+#EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/hddjj2stcqhr.png"group-title="RADIOS",BBN - Red de Radiodifusíon Biblica
+https://audio-edge-es6pf.mia.g.radiomast.io/475ebed1-595e-4717-b888-64fe8fc6b09f
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/7MZzH4apmuX8wP-NZ1q_PH-gzuq6YK9Gik7zYwiC1PFEu4RX6f6Lry69eBk02gq7h3o"group-title="RADIOS",Radio Pan Diario
+http://servidor35.brlogic.com:8728/live
+#EXTINF:-1 tvg-logo="https://radioenvivo.com.bo/uploads/img/radio-vida-nueva.jpg"group-title="RADIOS",Radio Vida Nueva 93.1 FM
+https://stream-153.zeno.fm/23g62x0kb4ztv?
+#EXTINF:-1 tvg-logo="https://radio-bethel.net/wp-content/uploads/2022/11/logo-bethel.png"group-title="RADIOS",Bethel Radio
+https://live.turadiotv.com/8120/stream
+#EXTINF:-1 tvg-logo="https://radioenvivo.com.bo/uploads/img/cristo-viene-la-red.png"group-title="RADIOS",Cristo Viene La Red 101.2 FM
+https://stream20.usastreams.com:7000/stream
+#EXTINF:-1 tvg-logo="https://radioenvivo.com.bo/uploads/img/nuevo-tiempo.jpg"group-title="RADIOS",Radio Nuevo Tiempo ZENORADIO
+https://stream-154.zeno.fm/z5h8dwm7wp8uv?
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_e61c6446eb0c403397509c94bb225d18~mv2.png"group-title="RADIOS",RadioHF ZENORADIO
+https://stream-47.zeno.fm/ufpfss4aguhvv?
+#EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/178/orad-ninos.ad3d768b.jpg"group-title="RADIOS",Orad Niños
+https://streaming.servicioswebmx.com:8142/;
+#EXTINF:-1 tvg-logo=""group-title="RADIOS",Presencia Kids TV
+https://stream.zeno.fm/3ppxgmg0grhvv
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s281345/images/logod.png?t=638225344170000000"group-title="RADIOS",Extrema Kids Radio
+http://panel.lifestreammedia.net:8130/stream
+#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/f/5/0/f50a99a6e9291c2e8b7e95eacb1cee43_icon.png"group-title="RELIGIOSO",Extrema Radio
+https://sp.unoredcdn.net/8004/stream
+#EXTINF:-1 tvg-logo="https://www.radiolaluzdedios.com/img/radio_la_luz_de_dios.png"group-title="RADIOS",Radio la luz de DIOS
+https://radio.sistemasandinos.org:10985/stream
+#EXTINF:-1 tvg-logo="https://radioscristianasdelmundo.com/sites/default/files/styles/player_image/public/2022-07/al-fin-clasicas-mexico.png.webp"group-title="RADIOS",Al Fin Clasicas
+https://stream-160.zeno.fm/4746n6e9xnhvv?zs=XK-pL5q7TVOC9J_Bb-clGg
+#EXTINF:-1 tvg-logo="https://radioscristianasdelmundo.com/sites/default/files/styles/og_image/public/2022-07/radio-vc-online-chile.png"group-title="RADIOS",VC Online
+https://sonic.streamingchilenos.com/9954/;
+#EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/580/radios-cristianas.ef7b13ab.png"group-title="RADIOS",Radios Cristianas en vivo
+https://radiozone.org/8008/stream
+#EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/886/adora-radio-fm.867a303c.jpg"group-title="RADIOS",Adora Radio FM
+https://radiozone.org/8004/stream
+#EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/793/adora-a-dios-radio.9a982e28.png"group-title="RADIOS",Adora a Dios Radio
+https://radiozone.org/8006/stream
+#EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/255/musicacristiana.62123136.jpg"group-title="RADIOS",Música Cristiana en vivo
+https://stream-285.surfernetwork.com/efy4auvgp9duv?
+#EXTINF:-1 tvg-logo="https://radioscristianasdelmundo.com/sites/default/files/styles/player_image/public/2022-07/audio-juvenil-cristiano-republica-dominicana.png.webp"group-title="RADIOS",Audio Juvenil Cristiano
+https://stream-149.zeno.fm/fgc3v3kwt98uv?zs=oUM_GnLeSNSrbwFGHoeJuQ
+#EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/433/cristiano-radio.82d5e4f7.png"group-title="RADIOS",Cristiano Radio en vivo
+https://control.voztream.com/8002/stream
+#EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/837/top-cristiano-radio.c5f2022c.png"group-title="RADIOS",Top Cristiano Radio en vivo
+https://radio.dominiserver.com/proxy/topcristianoradio?mp=/stream
+#EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/4NrJQSR42N.jpg"group-title="RADIOS",Radio Cristiana Bolivia en vivo
+https://stream-288.surfernetwork.com/h90vp1rxcfhvv?
+#EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/454/radios-cristianas-hd.497f632a.jpg"group-title="RADIOS",Radios Cristianas HD en vivo
+https://radiozone.org/8014/stream
+#EXTINF:-1 tvg-logo="https://radioscristianasdelmundo.com/sites/default/files/styles/player_image/public/2022-07/abriendo-los-cielos-honduras.png.webp"group-title="RADIOS",Abriendo Los Cielos Radio
+https://stream-151.zeno.fm/a8uwe88svy8uv?zs=676MsFOeQL-EO-0ZLtvWuw
+#EXTINF:-1 tvg-logo="https://radioscristianasdelmundo.com/sites/default/files/styles/og_image/public/2022-07/al-fin-radio-mexico.png"group-title="RADIOS",Al Fin Radio
+https://stream-153.zeno.fm/bwxzzkkuhchvv?zs=fB2fMCpPSmSmS3oE4ndsaQ
+#EXTINF:-1 tvg-logo="https://radioscristianasdelmundo.com/sites/default/files/styles/og_image/public/2022-07/7hp-europa-internet-radio-united-kindong.png"group-title="RADIOS",7HP-Europa Internet Radio
+https://stream-152.zeno.fm/7g4tdzzzafhvv?zs=OVWRfsmtRQek-SYCqaIpzg
+#EXTINF:-1 tvg-logo="https://radioscristianasdelmundo.com/sites/default/files/styles/radio_list/public/2022-07/radio-777-argentina.png.webp"group-title="RADIOS",777 Radio Cristiana
+https://stream-162.zeno.fm/xyrde5hmvy8uv?zs=b81iMHIcRMG8l1xEf6XUBg
+#EXTINF:-1 tvg-logo="https://radioscristianasdelmundo.com/sites/default/files/styles/player_image/public/2022-07/casa-roca-radio-colombia.png.webp"group-title="RADIOS",Casa Roca Radio
+https://radiolatina.info/8002/stream
+#EXTINF:-1 tvg-logo="https://ministeriointernacional.com/wp-content/uploads/2020/05/Ministerio-21.png"group-title="",Ministerio Internacional
+https://stream-151.zeno.fm/5mbeqheun2zuv?zs=MZzqvrbDTdmta81OitRYZQ
